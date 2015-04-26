@@ -1,0 +1,8 @@
+resume\modele\Cv.class
+resume\controler\XMLController.class
+resume\modele\Experiencepro.class
+resume\modele\Scolarite.class
+resume\util\SimpleCORSFilter.class
+resume\modele\Listcvs.class
+resume\modele\CompetenceInfo.class
+resume\modele\Langue.class
